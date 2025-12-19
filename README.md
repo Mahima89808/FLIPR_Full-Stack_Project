@@ -1,6 +1,4 @@
-Copy-paste this single file as README.md:
-
- FLIPR Full-Stack Business Manager
+FLIPR Full-Stack Business Manager
 
 FLIPR Full-Stack Business Manager is a local full-stack web application built using Python and Streamlit, with SQLite as the database.  
 It provides a public landing page and an admin panel to manage projects, clients, contact form responses, and newsletter subscriptions.
